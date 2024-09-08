@@ -55,13 +55,13 @@ You can set a callback function that will be triggered when a new order is creat
 
 ### Using Methods
 
-**1. Get a Customer's Orders**
+**1. Get a Customer's Order**
 
-**2. Get a Customer's Ordered Coffees**
+**2. Get the Customer's Ordered Coffees**
 
-**3. Get a Coffee's Orders**
+**3. Get the Coffee's Orders**
 
-**4. Get a Coffee's Customers**
+**4. Get the Coffee's Customers**
 
 **5. Get the Number of Orders for a Coffee**
 
