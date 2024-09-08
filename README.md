@@ -16,7 +16,7 @@ Follow these steps to set up and run the project on your local machine.
 
 Clone this repository to your local machine using:
 ```bash
-git clone <https://github.com/KevinGitari/code-challenge2-coffee-shop>
+git clone https://github.com/KevinGitari/code-challenge2-coffee-shop
 ```
 
 ### 2. Navigate to the Project Folder
