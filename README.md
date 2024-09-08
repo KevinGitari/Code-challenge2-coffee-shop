@@ -26,7 +26,6 @@ Change into the project directory:
 cd coffee_shop
 ```
 
-
 ## How to Use
 
 ### Creating Instances
@@ -72,9 +71,3 @@ You can set a callback function that will be triggered when a new order is creat
 
 - **Error Handling**: The code includes error handling to ensure that names and prices adhere to the specified constraints.
 - **Data Integrity**: The system maintains relationships between customers, coffees, and orders, ensuring data consistency.
-
-Feel free to modify and expand the project as needed. Happy coding!
-
----
-
-This `README.md` should provide a clear and approachable guide for beginners to understand how to set up and use the Coffee Shop project. If you need further explanations or have any other questions, let me know!
