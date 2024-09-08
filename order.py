@@ -1,3 +1,19 @@
+class Customer:
+    def __init__(self, name):
+        self.name = name
+        self.orders = []
+
+    def add_order(self, order):
+        self.orders.append(order)
+
+class Coffee:
+    def __init__(self, name):
+        self.name = name
+        self.orders = []
+
+    def add_order(self, order):
+        self.orders.append(order)
+
 class Order:
     def __init__(self, customer, coffee, price):
         self._customer = customer
@@ -17,3 +33,15 @@ class Order:
     @property
     def price(self):
         return self._price
+
+customer = Customer("John")
+coffee = Coffee("Latte")
+order = Order(customer, coffee, 5.0)
+
+print(order.customer.name)
+print(order.coffee.name)   
+print(order.price)          
+
+
+
+
